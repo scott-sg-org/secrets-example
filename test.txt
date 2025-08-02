@@ -1,0 +1,82 @@
+#
+# Secret examples
+#
+
+aws_access_key_id = ""
+aws_secret_access_key = ""
+# not sure if session token is in the rules
+aws_session_token = ""
+
+google_api_key = ""
+google_oauth_access_token = ""
+# not sure if google sheets is in the rules
+google_sheets_api_key = ""
+
+azure_client_id = ""
+azure_client_secret= ""
+
+github_pat = "ghp_"
+
+slack_webhook_url = ""
+
+stripe_secret_key = ""
+
+# probably from assistant
+smtp_username = ""
+smtp_password = ""
+smtp_auth_base64 = ""
+
+# have to come from Assistant - Generic
+api_key=""
+
+
+# probably requires AI Assistant
+jwt_secret = ""
+
+jwt_token = ""
+
+ssh_private_key = """
+
+
+"""
+
+PGP_private_key = """
+
+"""
+
+rsa_private_key = """
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRnt6Z2w/hXeZ6
+cXI6mNhfdupQO149+M8XWGPqqC/OrWmcluKuWl/APksqItldEnmYs9o7k3KmEbVD
+buwKhkcUu1P3lLWF2OxCJkDU+obwBW09SGh97PYOkFumbofBGBeMY8V1LYqwfMbD
+b0bZJhmoIs3oB0tbPX9Uwwii1hPJTn5DGa7FDeJyWkFVu5aXraUqPgZ3NILUuNZW
+sycbWSIHNwhXyeiStmNtAt1U8cMJiQzEeWV1BjAE5e3GM/STn58VY5p4KQnPRJNz
+QAdIE4iGDASB2+BnA9uJ2zj/6KoFEIGlabTKQBFZ2WK2/ST3a0PT017q8Y3TwLKt
+RKzTgb/rAgMBAAECggEACN9PVj1SoU3jYAQGV5d5rJb0QCv9x0e36Y1g+pn7HrPH
+MukxV61qdaZCqqFYFpDzging2ch2cbPjSL+AJebHgk7L7geC+ZobMzSsZgkcG3OI
+PSGuOachm3ak81HdqjYNK8YiL/nT00aBLzJy4DpDYqE6795uR8Kv0R70KvSwdQny
+YnOEf28aQLAt0M85d1yWqKFXhZaoJmWvXmRCSUHLH3SAwurIcxVBd+8FDBb9Ndom
+/EL76xvpFfHufEiwGjSlRH0XnB2UagzXuKx4UWZ4IAG48dp1fKS5EIXCwrQ6TEZa
+cMZTUe8PlAjTSNn6IzjllmdVJE8okWLNO2dGy4IAcQKBgQD2DNFl7AsSJv4IXB6m
+RPRP8TXuDl8d3QBS6ALGy2gbKP56AVi9Wz0+vL80wYHB4CBBV8OlmVXGG/6hjN8w
+iotDb12CEDuJu7Fj5fZ3qo8bDktY2H1lGdzso8QqVGqmmi3ENZAaV5kxhdtz0+t9
+O6L3/9bsDDZjXLbIKhuV0EzIowKBgQDaGOxERLqXIqlxUETWsdabceb4Ud4qXokw
+zlMfQIWZD92z8/CTfC8gs96qRJ6C172vVz164Pcj+mf132UI134Bh/dCKbzyw7s4
+Jg9BaDQ7KDFhcu61YgK2BAdFLh+hz6q8iHDoaIbC/oqATZZrW6UHTR4yXLgcdWUK
+b4xasM+4GQKBgQDlvq4/pxnnRzVohOuxgS1HAAnFUPILpnJI946wJPn+cla7gUpk
+9S7Ix+EZ153bc/VqThLHK9fldfpaynkUkCjdPL1pVtLhFrradr2em0moj75XJT5h
+Crc41umyRMSY79nQHduCXU0T6tMw4i4+71KKkv8RxY17VfTuDjNXvfoUVQKBgG2f
+a1phJVyEGqEPFJrJZrJZTRvxonavb8utWVBzEPO/atNhwMGRAOsyHbB9ryLbJ8ez
+VP6nhvF5krmeIN2R2w8P9XM3IXbwdPEjCDX7F43IhRGTQHLBIdW1LqZSKaoehJYh
+Cod2yo3GfX1CAmJR/SAvXgc4XX5Ib5IQQX7wMmg5AoGBAOdIKpENSpBbEkSexDK6
+P4npAwSdRjb/nD8U3At1HBPTUgXeEQQNpguXJbUq6QtEHcBoABX/EhKAMqt0V5Sx
+PDMM6Uaqi7pn29r4YqexLOrOyadEYJ2P6oHtfqsPh4NrqZ4jbQtZ1BztDgB5oMF1
+iiQFL4WV8XUhQ6W/iGDa3pIA
+-----END PRIVATE KEY-----
+"""
+
+facebook_access_token = "   "
+
+heroku_api_key = ""
+
+
