@@ -4,12 +4,10 @@
 
 aws_access_key_id = ""
 aws_secret_access_key = ""
-# not sure if session token is in the rules
 aws_session_token = ""
 
 google_api_key = ""
 google_oauth_access_token = ""
-# not sure if google sheets is in the rules
 google_sheets_api_key = ""
 
 azure_client_id = ""
@@ -22,26 +20,116 @@ slack_webhook_url = ""
 stripe_secret_key = ""
 
 # probably from assistant
-smtp_username = ""
-smtp_password = ""
+smtp_username = "john.smith@example.com"
+smtp_password = "AnotherExPawd123"
 smtp_auth_base64 = ""
 
 # have to come from Assistant - Generic
-api_key=""
+api_key="0ab2-3df2-09ab-932b-abd6"
 
+my_value = api_key
 
-# probably requires AI Assistant
-jwt_secret = ""
+jwt_secret = "a-string-secret-at-least-256-bits-long"
 
-jwt_token = ""
+jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibm
+FtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0.KMUFsIDTnFmyG3nMiG
+M6H9FNFUROf3wh7SmqJp-QV30"
 
 ssh_private_key = """
-
-
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCm1Li0ZRspuyhFjr0KRQZ8/ErDEmlhzTWkOBnQDY3psQAAAJgfHu1JHx7t
+SQAAAAtzc2gtZWQyNTUxOQAAACCm1Li0ZRspuyhFjr0KRQZ8/ErDEmlhzTWkOBnQDY3psQ
+AAAEB3CO7ztxd/kKUfaGXdLQaMe96pAA9J0K0nUEE8eFmCRKbUuLRlGym7KEWOvQpFBnz8
+SsMSaWHNNaQ4GdANjemxAAAADnNtY2JhaW5AdWJ1bnR1AQIDBAUGBw==
+-----END OPENSSH PRIVATE KEY-----
 """
 
 PGP_private_key = """
+-----BEGIN PGP PRIVATE KEY BLOCK-----
 
+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
+dO+qrpY1F3SrdD5zsuk=
+=XJiJ
+-----END PGP PRIVATE KEY BLOCK-----
 """
 
 rsa_private_key = """
